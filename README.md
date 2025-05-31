@@ -1,4 +1,3 @@
-Description
 This is a simple employee management system that uses SQLite to store and manage company employee data. It allows adding, updating, viewing, and deleting employee records in a local database.
 
 Features
